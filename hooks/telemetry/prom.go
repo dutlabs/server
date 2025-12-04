@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileCopyrightText: 2022 mochi-mqtt, mochi-co
+// SPDX-FileContributor: mochi-co
+
 package prom
 
 import (
