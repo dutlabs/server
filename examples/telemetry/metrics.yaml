@@ -1,0 +1,10 @@
+port: 9091
+metrics:
+  - name: "location_x"
+    help: "X coordinate"
+    field: "x"
+    labels: ["uuid"]
+  - name: "location_y"
+    help: "Y coordinate"
+    field: "y"
+    labels: ["uuid"]
